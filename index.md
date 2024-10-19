@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Superinfo Latino
 layout: home
 ---
 # Info utili sul corso di **Letteratura latina (con istituzioni di lingua), range A-H**

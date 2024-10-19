@@ -4,3 +4,15 @@ theme: just-the-docs
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+callouts:
+  warning:
+    title: Attenzione
+    color: red
+  important:
+    title: Importante
+    color: yellow
+  note:
+    title: N.B.
+    color: blue
+    

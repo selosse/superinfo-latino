@@ -55,9 +55,9 @@ Anche dei semplici appunti sono graditi 🙂: per caricare e scaricare, si trova
 
 Clicca per aprire:
 
-🗂️ [✍️ cartella Appunti](https://drive.google.com/drive/folders/16RASE5a3NU82-EixXsAX2-ABYno6kNPo?usp=drive_link){: .btn .btn-purple } 
+[✍️ cartella Appunti](https://drive.google.com/drive/folders/16RASE5a3NU82-EixXsAX2-ABYno6kNPo?usp=drive_link){: .btn .btn-purple } 
 
-🗂️ [📜 cartella Sbobine](https://drive.google.com/drive/folders/1Gau0B7H0rvAPBmWK9cYjhMqo1Y7I8gVq?usp=drive_link){: .btn .btn-green }
+[📜 cartella Sbobine](https://drive.google.com/drive/folders/1Gau0B7H0rvAPBmWK9cYjhMqo1Y7I8gVq?usp=drive_link){: .btn .btn-green }
 
 ### **Gruppo Whatsapp sbobine** {#gruppo-whatsapp-sbobine}
 
@@ -76,16 +76,24 @@ C'è anche un gruppo vecchio, non più utilizzato, lo riportiamo per informazion
 
 ### **Registrazioni** {#registrazioni}
 
-### Registrazioni modulo B - Formenti
+#### Registrazioni modulo B - Formenti
 
-📂 **sotto-cartella del Drive**: [🎧 Registrazioni](https://drive.google.com/drive/folders/1I2bVwZyTHR-hDUkcApa31M8JUBL1OlsO?usp=drive_link), colle registrazioni fatte da noi.
+La prof. Formenti non registra, quindi bisogna autorganizzarsi.
+📂 **Sotto-cartella del Drive** colle registrazioni fatte da noi: [🎧 Registrazioni](https://drive.google.com/drive/folders/1I2bVwZyTHR-hDUkcApa31M8JUBL1OlsO?usp=drive_link){: .btn }. 
 
-### Registrazioni dei moduli A-B-D, su Teams
+#### Registrazioni dei moduli A-B-D, su Teams
 
-Il prof Mori e il prof Gioseffi (non la Formenti) registrano le loro lezioni; si trovano sul teams. (Microsoft Teams carica in automatico i video su microsoft Sharepoint: [link delle registrazioni delle parti A-B, prof Mori](https://unimi2013.sharepoint.com/sites/LetteraturalatinaconistituzionidilinguaA-HRaschieri/Documenti%20condivisi/Forms/AllItems.aspx?FolderCTID=0x01200079A6D25C304E6841B32B33D448E9EED4&id=%2Fsites%2FLetteraturalatinaconistituzionidilinguaA%2DHRaschieri%2FDocumenti%20condivisi%2FLezioni%20Mori%20%28unit%C3%A0%20A%2DB%29%2FRecordings))
+Il prof Mori e il prof Gioseffi registrano le loro lezioni; si trovano sul teams. Microsoft Teams carica in automatico i video su microsoft Sharepoint.
+
+[📼 registrazioni delle parti A-B, prof Mori](https://unimi2013.sharepoint.com/sites/LetteraturalatinaconistituzionidilinguaA-HRaschieri/Documenti%20condivisi/Forms/AllItems.aspx?FolderCTID=0x01200079A6D25C304E6841B32B33D448E9EED4&id=%2Fsites%2FLetteraturalatinaconistituzionidilinguaA%2DHRaschieri%2FDocumenti%20condivisi%2FLezioni%20Mori%20%28unit%C3%A0%20A%2DB%29%2FRecordings){: .btn }
+
+{: .warning}
+> Le registrazioni di Gioseffi non sono, stranamente, nella cartella "Lezioni Gioseffi", ma in <Documenti → General → Recordings>.
+
+[📼 registrazioni della parte D, prof Gioseffi](https://unimi2013.sharepoint.com/sites/LetteraturalatinaconistituzionidilinguaA-HRaschieri/Documenti%20condivisi/Forms/AllItems.aspx?FolderCTID=0x01200079A6D25C304E6841B32B33D448E9EED4&id=%2Fsites%2FLetteraturalatinaconistituzionidilinguaA%2DHRaschieri%2FDocumenti%20condivisi%2FGeneral%2FRecordings&viewid=17d35e86%2D0576%2D45de%2D83bd%2Dc8637ca52793){: .btn }
 
 {: .note}
-> Mori ha detto: **faccio streaming live solo ad aula piena** (completamente prenotata); invece le registrazioni le fa sempre.
+> Mori ha detto: **faccio *streaming live* solo ad aula piena** (completamente prenotata). Le registrazioni, invece, le fa sempre.
 
 ---
 
@@ -93,10 +101,10 @@ Il prof Mori e il prof Gioseffi (non la Formenti) registrano le loro lezioni; si
 
 Si può consultare su
 
-- ⭐ Versione leggibile, con link ai materiali, pdf sul drive**: [Programma LEGGIBILE Latino, A-H, 24-25 (Mori Formenti Gioseffi).pdf](https://drive.google.com/open?id=1MX1nlZqKeCntUQsTUSzEWd1YC9U5eu-o)**
+- ⭐ **Versione leggibile**, con link ai materiali, pdf sul drive: [Programma LEGGIBILE in PDF](https://drive.google.com/open?id=1MX1nlZqKeCntUQsTUSzEWd1YC9U5eu-o){: .btn }
 
-- [Pagina MyAriel del corso](https://myariel.unimi.it/mod/folder/view.php?id=55747), sezione Programma, bibliografia e modalità d’esame  
-- [Pagina del corso](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/letteratura-latina) sul sito unimi
+- [Qui](https://myariel.unimi.it/mod/folder/view.php?id=55747), sulla Pagina MyAriel del corso (sezione "Programma, bibliografia e modalità d’esame") 
+- [Qui](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/letteratura-latina), sulla pagina ufficiale del corso, nel sito unimi
 
 #### Validità programmi anni passati
 Di seguito il messaggio pubblicato dal prof. Mori su Ariel, a questo proposito:
@@ -127,7 +135,9 @@ Per un esempio, vedi [qui sotto](#simulazioni-su-myariel).
 
 ### Simulazioni, su Myariel {#simulazioni-su-myariel}
 
-‼️[In fondo alla pagina MyAriel](https://myariel.unimi.it/course/view.php?id=3389#section-5) del corso si trovano **10 simulazioni dei test d'esame scritto**, per auto valutarsi. (Il voto ottenuto non fa media ai fini dell'esame).
+‼️In fondo alla pagina MyAriel del corso si trovano **10 simulazioni dei test d'esame scritto**, per auto valutarsi. (Il voto ottenuto non fa media ai fini dell'esame).
+
+[🕹️ Simulazioni](https://myariel.unimi.it/course/view.php?id=3389#section-5){: .btn }
 
 ## 🗣️ Esame orale, di letteratura {#esame-orale}
 
@@ -235,7 +245,9 @@ Gran parte di noi sa il latino a livelli medio bassi, o non lo ha mai fatto. Non
 
 3) Meglio ancora: meno pesanti perché più interattive sono le **lezioni del prof. Luca Graverini** (Univ. di Siena):  
    \- SITO WEB: [latinopratico.it](http://latinopratico.it). Pagine di spiegazione, con esercizi interattivi. Ottimo.  
-   \- 30 VIDEOLEZIONI sempre sue (durata media 8 minuti, [qui su Youtube](https://www.youtube.com/playlist?list=PLX0bvnnRgy7dgZUFViOc2FYQMZXve2wOI)): ricalcano il sito.
+   \- 30 VIDEOLEZIONI sempre sue (è una playlist su Youtube, ogni lezione ha durata media 8 minuti). Ricalcano il percorso didattico del sito. 
+
+[👨‍🏫 videolezioni del prof. Graverini](https://www.youtube.com/playlist?list=PLX0bvnnRgy7dgZUFViOc2FYQMZXve2wOI)){: .btn }
 
 ## Livello avanzato (il resto della morfosintassi) {#livello-avanzato}
 Il resto della morfosintassi, analisi del periodo (proposizioni varie), usi particolari.
@@ -251,7 +263,7 @@ Tuttavia, non ti preoccupare: i professori tengono conto che stiamo seguendo le 
 - non si sa ancora come ci si iscriverà.
 - [qui](https://myariel.unimi.it/pluginfile.php/199890/mod_forum/attachment/31132/tutorato_latino_24_25.pdf) il calendario.
      
-3) Materiali online… (ancora da aggiungere)
+3) Materiali online (... ancora da aggiungere ...)
 
 ---
 

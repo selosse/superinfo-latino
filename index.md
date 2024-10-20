@@ -14,6 +14,18 @@ layout: home
 
 ### Sommario della pagina
 
+%%Codice per il sommario (non toccare!)%%
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+
 [Orario](#orario)
 
 [Info generali](#info-generali)

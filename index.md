@@ -1,12 +1,10 @@
 ---
 layout: home
 ---
-# Info utili sul corso di **Letteratura latina** (con istituzioni di lingua) - range A-H, 2024-25
-
-{: .warning-title }
-> 🔴 Ultimo aggiornamento della pagina
->
-> 20 ottobre 2024, 12:00
+# Superinfo-latino
+{: .no_toc }
+## Info utili sul corso di **Letteratura latina** (con istituzioni di lingua) - range A-H, 2024-25
+{: .no_toc }
 
 Benvenut*! qui trovi una guida completa al corso di latino (2024-25, range A-H, con istituzioni di lingua) in unimi. Questa pagina è pensata per dare **accesso rapido alle informazioni e ai link**.
 
@@ -14,8 +12,14 @@ Per incominciare, puoi dare un'occhiata alla sezione [registrazioni](#registrazi
 
 Buona esplorazione!
 
+{: .warning-title }
+> 🔴 Ultimo aggiornamento della pagina
+>
+> 20 ottobre 2024, 12:30
+
 {: .note }
-> Strano ma vero, questa pagina non è stata creata da [CL / obiettivo studenti](https://www.instagram.com/ObiettivoStudenti/), ma è condivisione libera e senza secondi fini 🙂 - Licenza GPL v3
+> Strano ma vero, questa pagina non è stata creata da [CL / obiettivo studenti](https://www.instagram.com/ObiettivoStudenti/), ma è condivisione libera e senza secondi fini 🙂
+> Licenza GPL v3. Per modificare la pagina, [qui](https://github.com/selosse/superinfo-latino) su GitHub oppure a [questa](mailto:1z9qoe2e2@mozmail.com) email.
 
 <details open markdown="block">
   <summary>

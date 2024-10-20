@@ -6,7 +6,7 @@ layout: home
 ## Info utili sul corso di **Letteratura latina** (con istituzioni di lingua) - range A-H, 2024-25
 {: .no_toc }
 
-Benvenut*! qui trovi una guida completa al corso di latino (2024-25, range A-H, con istituzioni di lingua) in unimi. Questa pagina è pensata per dare **accesso rapido alle informazioni e ai link**.
+Benvenut*! Qui trovi molto di ciò che serve sapere riguardo il corso di latino (con istituzioni di lingua) in unimi[^1]. Questa pagina è pensata per dare **accesso rapido alle informazioni e ai link** che di solito sono dispersi, tra Ariel, MyAriel, sito dell'università e indicazioni dei professori.
 
 Per incominciare, puoi dare un'occhiata alla sezione [registrazioni](#registrazioni), o a quella [aiuto per lo studio della lingua](#aiuto-lingua). Subito qui sotto trovi il sommario.
 
@@ -267,7 +267,7 @@ Gran parte di noi sa il latino a livelli medio bassi, o non lo ha mai fatto. Non
 
 1) il **Corso Principianti** di latino, che si deve frequentare [se si ha ricevuto l’OFA](https://www.unimi.it/it/studiare/competenze-linguistiche/corsi-di-lingua-latina-principianti/ofa-latino-lettere) (obbligo formativo aggiuntivo) di latino, è una manna: ti porta da zero al livello pre-esercitazioni.
 
-2) Altrimenti, è fondamentale studiare per conto proprio **un buon manuale di grammatica latina**, va benissimo quello delle superiori.[^1]
+2) Altrimenti, è fondamentale studiare per conto proprio **un buon manuale di grammatica latina**, va benissimo quello delle superiori.[^2]
 
 3) Meglio ancora: meno pesanti perché più interattive sono le **lezioni del prof. Luca Graverini** (Univ. di Siena):  
    \- SITO WEB: [latinopratico.it](http://latinopratico.it). Pagine di spiegazione, con esercizi interattivi. Ottimo.  
@@ -295,4 +295,5 @@ Tuttavia, non ti preoccupare: i professori tengono conto che stiamo seguendo le 
 
 Grazie per l’attenzione e buon corso 😉
 
-[^1]:  I docenti su MyAriel suggeriscono: Luca Graverini, Marco Fucecchi, *La lingua latina. Fondamenti di morfologia e sintassi*, Firenze, Le Monnier, 2009 (e successive edizioni). Correzioni degli esercizi online a [questo link](https://www.mondadorieducation.it/content/uploads/2019/01/soluzioni_esercizi.zip?x19326) 
+[^1]: Per ora solo range A-H.
+[^2]: I docenti su MyAriel suggeriscono: Luca Graverini, Marco Fucecchi, *La lingua latina. Fondamenti di morfologia e sintassi*, Firenze, Le Monnier, 2009 (e successive edizioni). Correzioni degli esercizi online a [questo link](https://www.mondadorieducation.it/content/uploads/2019/01/soluzioni_esercizi.zip?x19326) 

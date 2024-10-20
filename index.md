@@ -7,7 +7,13 @@ layout: home
 {: .warning-title }
 > 🔴 Ultimo aggiornamento della pagina
 >
-> 20 ottobre 2024, 10:30
+> 20 ottobre 2024, 12:00
+
+Benvenut*! qui trovi una guida completa al corso di latino (2024-25, range A-H, con istituzioni di lingua) in unimi. Questa pagina è pensata per dare accesso rapido alle informazioni e ai link.
+
+Per incominciare, puoi dare un'occhiata alla sezione [registrazioni](#registrazioni), o a quella [aiuto per lo studio della lingua](#aiuto-lingua). Subito qui sotto trovi il sommario.
+
+Buona esplorazione!
 
 {: .note }
 > Strano ma vero, questa pagina non è stata creata da [CL / obiettivo studenti](https://www.instagram.com/ObiettivoStudenti/), ma è condivisione libera e senza secondi fini 🙂 - Licenza GPL v3

@@ -77,8 +77,11 @@ C’è anche un altro gruppo (doppione, a [questo](https://chat.whatsapp.com/Bzf
 
 Anche dei semplici appunti sono graditi 🙂: per caricare e scaricare, si trova tutto sul drive\!
 
-🗂️ **Cartella ["✍️ Appunti"](https://drive.google.com/drive/folders/16RASE5a3NU82-EixXsAX2-ABYno6kNPo?usp=drive_link)** sul drive
-🗂️ **Cartella ["📜 Sbobine"](https://drive.google.com/drive/folders/1Gau0B7H0rvAPBmWK9cYjhMqo1Y7I8gVq?usp=drive_link)
+Clicca per aprire:
+
+🗂️ [✍️ cartella Appunti](https://drive.google.com/drive/folders/16RASE5a3NU82-EixXsAX2-ABYno6kNPo?usp=drive_link){: .btn .btn-purple } 
+
+🗂️ [📜 cartella Sbobine](https://drive.google.com/drive/folders/1Gau0B7H0rvAPBmWK9cYjhMqo1Y7I8gVq?usp=drive_link){: .btn .btn-green }
 
 ### **Gruppo Whatsapp sbobine** {#gruppo-whatsapp-sbobine}
 

@@ -1,15 +1,14 @@
 ---
-title: Superinfo Latino
 layout: home
 ---
-# Info utili sul corso di **Letteratura latina (con istituzioni di lingua), range A-H**
+# Info utili sul corso di **Letteratura latina** (con istituzioni di lingua) - range A-H, 2024-25
 
 {: .warning-title }
 > 🔴 Ultimo aggiornamento della pagina
 >
 > 20 ottobre 2024, 12:00
 
-Benvenut*! qui trovi una guida completa al corso di latino (2024-25, range A-H, con istituzioni di lingua) in unimi. Questa pagina è pensata per dare accesso rapido alle informazioni e ai link.
+Benvenut*! qui trovi una guida completa al corso di latino (2024-25, range A-H, con istituzioni di lingua) in unimi. Questa pagina è pensata per dare **accesso rapido alle informazioni e ai link**.
 
 Per incominciare, puoi dare un'occhiata alla sezione [registrazioni](#registrazioni), o a quella [aiuto per lo studio della lingua](#aiuto-lingua). Subito qui sotto trovi il sommario.
 

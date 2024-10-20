@@ -12,50 +12,14 @@ layout: home
 {: .note }
 > Strano ma vero, questa pagina non è stata creata da [CL / obiettivo studenti](https://www.instagram.com/ObiettivoStudenti/), ma è condivisione libera e senza secondi fini 🙂 - Licenza GPL v3
 
-### Sommario della pagina
-
-%%Codice per il sommario (non toccare!)%%
-
 <details open markdown="block">
   <summary>
-    Table of contents
+    Sommario della pagina
   </summary>
   {: .text-delta }
 - TOC
 {:toc}
 </details>
-
-
-[Orario](#orario)
-
-[Info generali](#info-generali)
-
-[Registrazioni, sbobine e appunti](#registrazioni,-sbobine-e-appunti)
-   - [Gruppo Whatsapp sbobine](#gruppo-whatsapp-sbobine)
-   - [Registrazioni](#registrazioni)
-
-[Programma](#programma)
-
-[Esami](#esami)
-
-   - [✍️ Esame scritto, di lingua](#esame-scritto)
-      - [Info ufficiali (da MyAriel)](#info-ufficiali-1)
-      - [Simulazioni su Myariel](#simulazioni-su-myariel)
-
-   - [🗣️ Esame orale, di letteratura](#esame-orale)
-      - [Info ufficiali (da MyAriel)](#info-ufficiali-2)
-
-   - [Date](#date-esami)
-
-[Esercitazioni](#esercitazioni)
-   - [Info](#info-esercitazioni)
-   - [Tutorato](#tutorato)
-
-[Materiali aggiuntivi su Ariel](#materiali-aggiuntivi-su-ariel)
-
-[😱 Non so nulla della lingua](#aiuto-lingua)
-   - [Livello base (latino zero / morfosintassi di base)](#livello-base))
-   - [Livello avanzato (il resto della morfosintassi)](#livello-avanzato))
 
 # **Orario** {#orario}
 

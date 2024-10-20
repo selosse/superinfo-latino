@@ -3,9 +3,13 @@ title: Superinfo Latino
 layout: home
 ---
 # Info utili sul corso di **Letteratura latina (con istituzioni di lingua), range A-H**
+{: .warning-title }
+> 🔴 Ultimo aggiornamento della pagina
+>
+> 20 ottobre 2024, 10:30
 
-🔴 Ultimo aggiornamento della pagina: 20 ottobre 2024, 10:30
-⚠️ Strano ma vero, questa pagina non è stata creata da [CL / obiettivo studenti](https://www.instagram.com/ObiettivoStudenti/) ;) ma è condivisione libera e senza secondi fini 🙂
+{: .note-title }
+> Strano ma vero, questa pagina non è stata creata da [CL / obiettivo studenti](https://www.instagram.com/ObiettivoStudenti/), ma è condivisione libera e senza secondi fini 🙂 - Licenza GPL v3
 
 ### Sommario della pagina
 

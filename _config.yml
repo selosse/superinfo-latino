@@ -17,18 +17,3 @@ callouts:
   note:
     title: N.B.
     color: blue
-
-# Footer content
-footer_content: "Distribuito con <a href=\"https://github.com/selosse/superinfo-latino/tree/main/LICENSE.txt">licenza GPL v3</a>"
-
-# Footer "Edit this page on GitHub" link text
-gh_edit_link: true
-gh_edit_link_text: "Modifica questa pagina su GitHub."
-gh_edit_repository: "https://github.com/selosse/superinfo-latino"
-gh_edit_branch: "main"
-
-# Tasto per tornare in cima, nel footer
-back_to_top: true
-back_to_top_text: "Torna in cima"
-
-

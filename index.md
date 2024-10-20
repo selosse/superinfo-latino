@@ -4,7 +4,7 @@ layout: home
 ---
 # Info utili sul corso di **Letteratura latina (con istituzioni di lingua), range A-H**
 
-🔴 Ultimo aggiornamento della pagina: 26 settembre 2024, 15:30
+🔴 Ultimo aggiornamento della pagina: 20 ottobre 2024, 10:30
 ⚠️ Strano ma vero, questa pagina non è stata creata da [CL / obiettivo studenti](https://www.instagram.com/ObiettivoStudenti/) ;) ma è condivisione libera e senza secondi fini 🙂
 
 ### Sommario della pagina
@@ -92,12 +92,16 @@ C'è anche un gruppo vecchio, non più utilizzato, lo riportiamo per informazion
 
 ### **Registrazioni** {#registrazioni}
 
-📂 **sotto-cartella del Drive, colle registrazioni fatte da noi**: [🎧 Registrazioni](https://drive.google.com/drive/folders/1I2bVwZyTHR-hDUkcApa31M8JUBL1OlsO?usp=drive_link)
+### Registrazioni modulo B - Formenti
+
+📂 **sotto-cartella del Drive**: [🎧 Registrazioni](https://drive.google.com/drive/folders/1I2bVwZyTHR-hDUkcApa31M8JUBL1OlsO?usp=drive_link), colle registrazioni fatte da noi.
 
 ### Registrazioni dei moduli A-B-D, su Teams
+
 Il prof Mori e il prof Gioseffi (non la Formenti) registrano le loro lezioni; si trovano sul teams. (Microsoft Teams carica in automatico i video su microsoft Sharepoint: [link delle registrazioni delle parti A-B, prof Mori](https://unimi2013.sharepoint.com/sites/LetteraturalatinaconistituzionidilinguaA-HRaschieri/Documenti%20condivisi/Forms/AllItems.aspx?FolderCTID=0x01200079A6D25C304E6841B32B33D448E9EED4&id=%2Fsites%2FLetteraturalatinaconistituzionidilinguaA%2DHRaschieri%2FDocumenti%20condivisi%2FLezioni%20Mori%20%28unit%C3%A0%20A%2DB%29%2FRecordings))
 
-NB: Mori ha detto: **faccio streaming live solo ad aula piena** (completamente prenotata); invece le registrazioni le fa sempre.
+{: .note}
+> Mori ha detto: **faccio streaming live solo ad aula piena** (completamente prenotata); invece le registrazioni le fa sempre.
 
 ---
 
@@ -110,7 +114,8 @@ Si può consultare su
 - [Pagina MyAriel del corso](https://myariel.unimi.it/mod/folder/view.php?id=55747), sezione Programma, bibliografia e modalità d’esame  
 - [Pagina del corso](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/letteratura-latina) sul sito unimi
 
-#### Validità programmi anni passati: messaggio pubblicato dal prof. Mori su Ariel:
+#### Validità programmi anni passati
+Di seguito il messaggio pubblicato dal prof. Mori su Ariel, a questo proposito:
 
 > *Gli studenti che intendono sostenere l'esame di Letteratura latina con istituzioni di lingua (A-H) e che portano programmi di corsi precedenti a quello di questo anno accademico sono pregati di mettersi in contatto via email con il prof. Mori ([roberto.mori@unimi.it](mailto:roberto.mori@unimi.it)).*
 
@@ -122,8 +127,12 @@ Si può consultare su
 
 ## ✍️ Esame scritto, di lingua {#esame-scritto}
 
-in via noto; il primo sarà a fine gennaio (eccetto chi frequenta le esercitazioni).  
+📍 In via Noto.
+📅 Il primo sarà a fine gennaio (eccetto chi frequenta le esercitazioni).
+
+### Struttura
 Brano di 12 righe e poi domande di comprensione, lessico, e grammatica. No dizionario.
+Per un esempio, vedi [qui sotto](#simulazioni-su-myariel).
 
 ### Info ufficiali (da MyAriel) {#info-ufficiali-1}
 
@@ -132,14 +141,19 @@ Brano di 12 righe e poi domande di comprensione, lessico, e grammatica. No dizio
 >*I risultati sono comunicati tempestivamente sul sito Ariel e il superamento della prova è valido per tre anni.*  
 >*NB: Sono esonerati da tale prova gli studenti/studentesse che nella scuola superiore avessero conseguito la certificazione linguistica di 'Latino, livello B2'.*
 
-### Simulazioni su Myariel {#simulazioni-su-myariel}
+### Simulazioni, su Myariel {#simulazioni-su-myariel}
 
 ‼️[In fondo alla pagina MyAriel](https://myariel.unimi.it/course/view.php?id=3389#section-5) del corso si trovano **10 simulazioni dei test d'esame scritto**, per auto valutarsi. (Il voto ottenuto non fa media ai fini dell'esame).
 
 ## 🗣️ Esame orale, di letteratura {#esame-orale}
 
-Per quanto riguarda la parte di lettura metrica, la prof Formenti ha detto:  
-Si può fare o la lettura metrica di una decina di versi scelti da loro; oppure, *analisi metrica* di 1 verso solo.
+1. una domanda sulla storia letteraria (parte da studiare dal manuale + 40 autori). È stato detto che gli autori più importanti vanno studiati meglio.
+2. una domanda sulle parti A-B: lettura metrica, traduzione/parafrasi, e spiegazione.
+3. una domanda sulla parte C, uguale.
+4. una domanda sulla parte D, anche se il testo è in prosa quindi senza lettura metrica.
+
+{: .note}
+> Per quanto riguarda la parte di lettura metrica, la prof Formenti ha detto che si può scegliere tra fare o la lettura metrica di una decina di versi scelti da loro, oppure, l'*analisi metrica* di 1 verso solo.
 
 ### Info ufficiali (da MyAriel) {#info-ufficiali-2}
 
@@ -182,7 +196,7 @@ La professoressa / il professore spiegano uno o più concetti di morfosintassi l
 
 ## Info {#info-esercitazioni}
 
-**Data/ora**: lunedì sera, 18-19.30
+🕒 **Data/ora**: lunedì sera, 18-19.30
 
 {: .important-title }
 > Importante

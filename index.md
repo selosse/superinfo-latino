@@ -85,7 +85,7 @@ Chi vuole si può mettere d’accordo per **assegnarsi le sbobine e calendarizza
 
 🔗 **Link del gruppo**: https://chat.whatsapp.com/B8BXz4CvJQLKgvSWkYReIR
 
-**📅 Excel col calendario delle sbobine:** [📅 Calendario sbobine](https://docs.google.com/spreadsheets/d/11MPG3XhOC4DzEA4Ny5sxwLaFqsJx4Ee_4wESB97Yos4/), sul drive
+[📅 **file Excel col calendario delle sbobine**](https://docs.google.com/spreadsheets/d/11MPG3XhOC4DzEA4Ny5sxwLaFqsJx4Ee_4wESB97Yos4/), sul drive
 
 C'è anche un gruppo vecchio, non più utilizzato, lo riportiamo per informazione: ([**Link gruppo VECCHIO**](https://chat.whatsapp.com/IbszRruSnHYKiMfY3Hghtl))
 
@@ -147,14 +147,16 @@ Di seguito il messaggio pubblicato dal prof. Mori su Ariel, a questo proposito:
 Brano di 12 righe e poi domande di comprensione, lessico, e grammatica. No dizionario.
 Per un esempio, vedi [qui sotto](#simulazioni-su-myariel).
 
-### Info ufficiali (da MyAriel) {#info-ufficiali-1}
+### Info ufficiali {#info-ufficiali-1}
+
+Da MyAriel.
 
 >*L'esame prevede un test obbligatorio e preliminare di accertamento linguistico con **appelli a gennaio, maggio e settembre**.*  
 >*Il test si svolge di norma in modalità informatica e consiste in **30 domande a risposta aperta o chiusa su grammatica, lessico e comprensione, a partire da un brano di prosa** latina d'autore. Il voto è espresso in 30/30 (risposta corretta \= 1; risposta sbagliata o mancante \= 0). Non è ammesso l'uso del vocabolario.*  
 >*I risultati sono comunicati tempestivamente sul sito Ariel e il superamento della prova è valido per tre anni.*  
 >*NB: Sono esonerati da tale prova gli studenti/studentesse che nella scuola superiore avessero conseguito la certificazione linguistica di 'Latino, livello B2'.*
 
-### Simulazioni, su Myariel {#simulazioni-su-myariel}
+### Simulazioni {#simulazioni}
 
 ‼️In fondo alla pagina MyAriel del corso si trovano **10 simulazioni dei test d'esame scritto**, per auto valutarsi. (Il voto ottenuto non fa media ai fini dell'esame).
 
@@ -170,7 +172,9 @@ Per un esempio, vedi [qui sotto](#simulazioni-su-myariel).
 {: .note}
 > Per quanto riguarda la parte di lettura metrica, la prof Formenti ha detto che si può scegliere tra fare o la lettura metrica di una decina di versi scelti da loro, oppure, l'*analisi metrica* di 1 verso solo.
 
-### Info ufficiali (da MyAriel) {#info-ufficiali-2}
+### Info ufficiali {#info-ufficiali-2}
+
+Da MyAriel.
 
 >*L'esame orale consiste in **quattro domande (una domanda su ciascuna delle parti del corso** – vedi il programma – più **una domanda sulla storia della letteratura**).*  
 >*Gli studenti/studentesse dovranno dimostrare la loro capacità di presentare gli autori e le questioni fondamentali di letteratura latina e analizzare testi proposti a lezione o preparati autonomamente.*  
@@ -180,7 +184,11 @@ Per un esempio, vedi [qui sotto](#simulazioni-su-myariel).
 
 Dal messaggio di Mori, pubblicato sulla bacheca di MyAriel il 25 settembre:
 
-#### Esami scritti (di pomeriggio dalle 14.30 in aula Cono2, via Noto)
+#### Esami scritti
+
+🕒 di pomeriggio dalle 14.30
+
+📍 Via Noto, aula Cono 2
 
 - giovedì 16 gennaio 2025
 - mercoledì 4 giugno 2025

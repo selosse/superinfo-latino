@@ -3,6 +3,7 @@ layout: home
 ---
 # Superinfo-latino
 {: .no_toc }
+
 ## Info utili sul corso di **Letteratura latina** (con istituzioni di lingua) - range A-H, 2024-25
 {: .no_toc }
 
@@ -144,10 +145,13 @@ Di seguito il messaggio pubblicato dal prof. Mori su Ariel, a questo proposito:
 📅 Il primo sarà a fine gennaio (eccetto chi frequenta le esercitazioni).
 
 ### Struttura
-Brano di 12 righe e poi domande di comprensione, lessico, e grammatica. No dizionario.
-Per un esempio, vedi [qui sotto](#simulazioni-su-myariel).
+Brano di una decina di righe e poi domande di comprensione, lessico, e grammatica. No dizionario.
+Per un esempio, vedi [qui sotto](#simulazioni).
+
+I risultati arrivano dopo una settimana circa.
 
 ### Info ufficiali {#info-ufficiali-1}
+{: .no_toc }
 
 Da MyAriel.
 
@@ -173,6 +177,7 @@ Da MyAriel.
 > Per quanto riguarda la parte di lettura metrica, la prof Formenti ha detto che si può scegliere tra fare o la lettura metrica di una decina di versi scelti da loro, oppure, l'*analisi metrica* di 1 verso solo.
 
 ### Info ufficiali {#info-ufficiali-2}
+{: .no_toc }
 
 Da MyAriel.
 
@@ -228,7 +233,8 @@ La professoressa / il professore spiegano uno o più concetti di morfosintassi l
 > Importante
 >
 > Bisogna iscriversi col [modulo apposito su MyAriel](https://myariel.unimi.it/mod/choice/view.php?id=71045)  → poi si verrà smistati in 3 gruppi.
-> 📄 [PDF con i gruppi](https://myariel.unimi.it/pluginfile.php/199890/mod_forum/attachment/27929/gruppi_esercitazioni_2024.pdf)"
+>
+> 📄 [PDF con i gruppi](https://myariel.unimi.it/pluginfile.php/199890/mod_forum/attachment/27929/gruppi_esercitazioni_2024.pdf)
 
 Frequentare dà la possibilità di accedere alle **prove intermedie:**   
 sono scritti uguali a quelli ufficiali; **se passati non bisogna fare quello ufficiale**. 

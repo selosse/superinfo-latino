@@ -187,7 +187,7 @@ Da MyAriel.
 
 ## 📅 Date {#date-esami}
 
-Dal messaggio di Mori, pubblicato sulla bacheca di MyAriel il 25 settembre:
+Da [questo](https://myariel.unimi.it/mod/forum/discuss.php?d=22993) messaggio di Mori, pubblicato sulla bacheca di MyAriel il 25 settembre:
 
 #### Esami scritti
 

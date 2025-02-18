@@ -64,7 +64,7 @@ Sul drive si trovano:
 ### ✍️ Appunti
 - moduli A & B - Mori ([apri](https://drive.google.com/file/d/1Pg00ummpb4NiplNzElq3zMVhvHmw04QF/view?usp=sharing)): completi, ottimi - praticamente sbobinati.
 - modulo C - Gioseffi ([apri](https://drive.google.com/drive/folders/1gKI33hAbhU5IVRVR_gvJtUedav5t_z-O?usp=drive_link)): lezioni 1-7 ottime, lezione 8 buona, lezioni 9 & 10 assenti.
-- modulo D - Formenti ([apri])(https://drive.google.com/drive/folders/1I6dBKjQkSHIkyAvN3zvFxErrocOrrWNT?usp=drive_link): 8 lezioni su 10, generalmente buone.
+- modulo D - Formenti ([apri](https://drive.google.com/drive/folders/1I6dBKjQkSHIkyAvN3zvFxErrocOrrWNT?usp=drive_link)): 8 lezioni su 10, generalmente buone.
 
 [✍️ cartella Appunti](https://drive.google.com/drive/folders/16RASE5a3NU82-EixXsAX2-ABYno6kNPo?usp=drive_link){: .btn .btn-purple } 
 
@@ -79,6 +79,8 @@ Sul drive si trovano:
 - riassunto delle introduzioni agli autori [qui](https://drive.google.com/file/d/18Owefn36sC2Chn3n8BdhpQBzwsUgyx3Y/view?usp=sharing).
 - riassunto dei 40 autori (da G.B. Conte, *Profilo storico della letteratura latina*) [qui](https://drive.google.com/file/d/1Ks66x51hXfvYNAsFjAY9USqcw_rCrdpk/view?usp=drive_link).
 - riassunto dell'A.A. 2023-24 di cui però i moduli C e D sono gli stessi di quest'anno [qui](https://drive.google.com/file/d/15tAJab6eCEZi5l8EBVcy7FCvC86EOsO-/view?usp=drive_link).
+
+[🤌 cartella Riassunti](https://drive.google.com/drive/folders/1-4mW_UoBRI7UQX-qMJf3f_yRvEGm9yAj){: .btn .btn-orange }
 
 --- 
 
@@ -323,7 +325,7 @@ Chi vuole si può mettere d’accordo per **assegnarsi le sbobine e calendarizza
 C'è anche un gruppo vecchio, non più utilizzato, lo riportiamo per informazione: ([**Link gruppo VECCHIO**](https://chat.whatsapp.com/IbszRruSnHYKiMfY3Hghtl))
 
 ---
-{: .note-title } 
+{: .note-title} 
 > Addio ❤️
 > 
 > Siamo giunti alla fine di questo tutorial... se riesci, condividi questo link <3. Grazie per l’attenzione e in bocca al lupo 😉

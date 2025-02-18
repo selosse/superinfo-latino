@@ -7,20 +7,20 @@ layout: home
 ## Info utili sul corso di **Letteratura latina** (con istituzioni di lingua) - range A-H, 2024-25
 {: .no_toc }
 
-Benvenut*! Qui trovi molto di ciò che serve sapere riguardo il corso di latino (con istituzioni di lingua) in unimi[^1]. Questa pagina è pensata per dare **accesso rapido alle informazioni e ai link** che di solito sono dispersi, tra Ariel, MyAriel, sito dell'università e indicazioni dei professori.
-
-Per incominciare, puoi dare un'occhiata alla sezione [registrazioni](#registrazioni), o a quella [aiuto per lo studio della lingua](#aiuto-lingua). Subito qui sotto trovi il sommario.
+Benvenut*! Questo è **un archivio che contiene molte cose utili sul corso di latino** (con istituzioni di lingua) in unimi[^1] per l'anno 2024/25. Qui trovi **accesso rapido alle informazioni e ai link** che di solito sono dispersi, tra Ariel, MyAriel, sito dell'università... per non parlare di ciò che è stato detto soltanto una volta in aula.
+#### Da dove partire?
+👉 Troverai certamente utili le sezioni [appunti e registrazioni](#registrazioni), e quella di [aiuto per lo studio della lingua](#aiuto-lingua). Subito qui sotto trovi il sommario.
 
 Buona esplorazione!
 
 {: .warning-title }
 > 🔴 Ultimo aggiornamento della pagina
 >
-> 20 ottobre 2024, 12:30
+> 18 febbraio 2025, 23:30
 
 {: .note }
-> Strano ma vero, questa pagina non è stata creata da [CL / obiettivo studenti](https://www.instagram.com/ObiettivoStudenti/), ma è condivisione libera e senza secondi fini 🙂
-> Licenza GPL v3. Per modificare la pagina, [qui](https://github.com/selosse/superinfo-latino) su GitHub oppure a [questa](mailto:1z9qoe2e2@mozmail.com) email.
+> Strano ma vero, questa pagina non è stata creata da alcun partito, ma è condivisione libera[^2] e senza secondi fini 🙂
+> Vuoi modificare la pagina? Scrivi a [questa](mailto:1z9qoe2e2@mozmail.com) email oppure [qui](https://github.com/selosse/superinfo-latino) su GitHub.
 
 <details open markdown="block">
   <summary>
@@ -31,24 +31,13 @@ Buona esplorazione!
 {:toc}
 </details>
 
-# **Orario** {#orario}
-
-| Esercitazione | Lun | 18-19.30 | Online sul teams del corso | Prof: a seconda del gruppo |
-| :---- | :---- | :---- | :---- | :---- |
-| **Lezioni** | Mar | 12.30 | S. Sof M302 | prof. Gioseffi (**parte D**: De bello gallico) |
-|  | Mer | 14.30 | S. Sof M102 | prof. Formenti (**parte C**: libro 4 Eneide) |
-|  | Gio | 16.30 | Fdp 510 | prof. Mori (**parti A\&B**: *Heroides* di Ovidio) |
-|  | Ven | 14.30 | Fdp 510 | prof. Mori (**parti A\&B**) |
-
-***
-
 # **Link generali** {#link-generali}
 
 ### Gruppi
 
-🔗 **Link del gruppo Whatsapp principale**: [https://chat.whatsapp.com/BXugPgEkGWr8qfToKQKv49](https://chat.whatsapp.com/BXugPgEkGWr8qfToKQKv49) 
+🫂 **Gruppo Whatsapp 24/25 (principale)**: [https://chat.whatsapp.com/BXugPgEkGWr8qfToKQKv49](https://chat.whatsapp.com/BXugPgEkGWr8qfToKQKv49) 
 
-C’è anche un altro gruppo (doppione, a [questo](https://chat.whatsapp.com/BzfHhZHvwGi43zbNf10fzv) link), ma con 150 iscritti, e sarebbe meglio migrare tutti verso il primo.
+C’è anche un altro gruppo (doppione, a [questo](https://chat.whatsapp.com/BzfHhZHvwGi43zbNf10fzv) link), che ha però circa la metà degli iscritti, e sarebbe meglio migrare tutti verso il primo.
 
 ✍🏻 **Link gruppo sbobine**: [https://chat.whatsapp.com/IbszRruSnHYKiMfY3Hghtl](https://chat.whatsapp.com/IbszRruSnHYKiMfY3Hghtl) 
 
@@ -57,80 +46,80 @@ C’è anche un altro gruppo (doppione, a [questo](https://chat.whatsapp.com/Bzf
 🧜🏻‍♀️ **Sito del corso MyAriel**: [https://myariel.unimi.it/course/view.php?id=3389](https://myariel.unimi.it/course/view.php?id=3389)   
 🎦 **Codice Teams**: 4p3o3z2
 
-### Drive
+### Drive (fondamentale!)
 
 🗂️ **Link Drive 2024-25**: [https://drive.google.com/drive/folders/1wj6Z5NMsjwsVbez0gSmvWLmVyTitCuH2](https://drive.google.com/drive/folders/1wj6Z5NMsjwsVbez0gSmvWLmVyTitCuH2) 
 
-(Lezioni 2022: [https://shorturl.at/sy5IN](https://shorturl.at/sy5IN))
+(Vecchio drive con lezioni 2022: [https://shorturl.at/sy5IN](https://shorturl.at/sy5IN))
 
 ---
 
 # **Registrazioni, sbobine e appunti** {#registrazioni}
 
-Anche dei semplici appunti sono graditi 🙂: per caricare e scaricare, si trova tutto sul drive\!
+{: .warning}
+> Questa è la sezione più importante del sito!
 
-Clicca per aprire:
+Sul drive si trovano:
+
+### ✍️ Appunti
+- moduli A & B - Mori ([apri](https://drive.google.com/file/d/1Pg00ummpb4NiplNzElq3zMVhvHmw04QF/view?usp=sharing)): completi, ottimi - praticamente sbobinati.
+- modulo C - Gioseffi ([apri](https://drive.google.com/drive/folders/1gKI33hAbhU5IVRVR_gvJtUedav5t_z-O?usp=drive_link)): lezioni 1-7 ottime, lezione 8 buona, lezioni 9 & 10 assenti.
+- modulo D - Formenti ([apri])(https://drive.google.com/drive/folders/1I6dBKjQkSHIkyAvN3zvFxErrocOrrWNT?usp=drive_link): 8 lezioni su 10, generalmente buone.
 
 [✍️ cartella Appunti](https://drive.google.com/drive/folders/16RASE5a3NU82-EixXsAX2-ABYno6kNPo?usp=drive_link){: .btn .btn-purple } 
 
+### 📜 Sbobine
+- 9 dei moduli A & B ([apri](https://drive.google.com/drive/folders/1EwgNxPwdNUA_RNAQbl5ksMW2C-yCKwwl))
+- 4 del modulo C ([apri](https://drive.google.com/drive/folders/1AKTthWY198LGSNXq5D67CBZyRGtaSsFF))
+- 2 del modulo D ([apri](https://drive.google.com/drive/folders/1HRWbmqV5AN5e32HMkaouxyk7Nlzce5rf)).
+
 [📜 cartella Sbobine](https://drive.google.com/drive/folders/1Gau0B7H0rvAPBmWK9cYjhMqo1Y7I8gVq?usp=drive_link){: .btn .btn-green }
 
-### **Gruppo Whatsapp sbobine** {#gruppo-whatsapp-sbobine}
+### 🤌 Riassunti
+- riassunto delle introduzioni agli autori [qui](https://drive.google.com/file/d/18Owefn36sC2Chn3n8BdhpQBzwsUgyx3Y/view?usp=sharing).
+- riassunto dei 40 autori (da G.B. Conte, *Profilo storico della letteratura latina*) [qui](https://drive.google.com/file/d/1Ks66x51hXfvYNAsFjAY9USqcw_rCrdpk/view?usp=drive_link).
+- riassunto dell'A.A. 2023-24 di cui però i moduli C e D sono gli stessi di quest'anno [qui](https://drive.google.com/file/d/15tAJab6eCEZi5l8EBVcy7FCvC86EOsO-/view?usp=drive_link).
 
-Chi vuole si può mettere d’accordo per **assegnarsi le sbobine e calendarizzare le trascrizioni**: usa il gruppo qui sotto ⬇️.
-
-{: .note-title }
-> Sbobina anche tu
->
-> Se riesci, contribuisci anche tu a trascrivere una o più sbobine: per farlo, segnati prima nel [*calendario*](https://docs.google.com/spreadsheets/d/11MPG3XhOC4DzEA4Ny5sxwLaFqsJx4Ee_4wESB97Yos4/edit).
-
-🔗 **Link del gruppo**: https://chat.whatsapp.com/B8BXz4CvJQLKgvSWkYReIR
-
-[📅 **file Excel col calendario delle sbobine**](https://docs.google.com/spreadsheets/d/11MPG3XhOC4DzEA4Ny5sxwLaFqsJx4Ee_4wESB97Yos4/), sul drive
-
-C'è anche un gruppo vecchio, non più utilizzato, lo riportiamo per informazione: ([**Link gruppo VECCHIO**](https://chat.whatsapp.com/IbszRruSnHYKiMfY3Hghtl))
+--- 
 
 ### **Registrazioni** {#registrazioni}
 
-#### Registrazioni modulo B - Formenti
+Dove trovare le registrazioni?
 
-La prof. Formenti non registra, quindi bisogna autorganizzarsi.
+#### Registrazioni nostre del modulo B - Formenti
 
-📂 **Sotto-cartella del Drive** colle registrazioni fatte da noi:
+La prof. Formenti non ha registrato, quindi ci siamo dovuti autorganizzare. Qui la **sotto-cartella del Drive** colle registrazioni fatte da noi (**incomplete**):
 
 [🎧 Registrazioni](https://drive.google.com/drive/folders/1I2bVwZyTHR-hDUkcApa31M8JUBL1OlsO?usp=drive_link){: .btn }. 
 
-#### Registrazioni dei moduli A-B-D, su Teams
+#### Video-registrazioni ufficiali dei moduli A-B-D, su Teams
 
-Il prof Mori e il prof Gioseffi registrano le loro lezioni; si trovano sul teams. Microsoft Teams carica in automatico i video su microsoft Sharepoint.
-
-{: .note}
-> Mori ha detto: **faccio *streaming live* solo ad aula piena** (completamente prenotata). Le registrazioni, invece, le fa sempre.
+Il prof Mori e il prof Gioseffi hanno registrato le loro lezioni; si trovano **tutte** tra i documenti della pagina Teams. Microsoft Teams carica in automatico i video su microsoft Sharepoint.
 
 [📼 registrazioni delle parti A-B, prof Mori](https://unimi2013.sharepoint.com/sites/LetteraturalatinaconistituzionidilinguaA-HRaschieri/Documenti%20condivisi/Forms/AllItems.aspx?FolderCTID=0x01200079A6D25C304E6841B32B33D448E9EED4&id=%2Fsites%2FLetteraturalatinaconistituzionidilinguaA%2DHRaschieri%2FDocumenti%20condivisi%2FLezioni%20Mori%20%28unit%C3%A0%20A%2DB%29%2FRecordings){: .btn }
 
 [📼 registrazioni della parte D, prof Gioseffi](https://unimi2013.sharepoint.com/sites/LetteraturalatinaconistituzionidilinguaA-HRaschieri/Documenti%20condivisi/Forms/AllItems.aspx?FolderCTID=0x01200079A6D25C304E6841B32B33D448E9EED4&id=%2Fsites%2FLetteraturalatinaconistituzionidilinguaA%2DHRaschieri%2FDocumenti%20condivisi%2FGeneral%2FRecordings&viewid=17d35e86%2D0576%2D45de%2D83bd%2Dc8637ca52793){: .btn }
 
 {: .warning}
-> Le registrazioni di Gioseffi non sono, stranamente, nella cartella "Lezioni Gioseffi", ma in <Documenti → General → Recordings>.
+> Le registrazioni di Gioseffi non sono, stranamente, nella cartella "Lezioni Gioseffi", ma in <Documenti → General → Recordings>. Ma basta cliccare il bottone qui sopra.
 
 ---
 
 # **Programma** {#programma}
 
-Si può consultare su
-
-- ⭐ **Versione leggibile**, con link ai materiali, pdf sul drive:
+Per una rapida consultazione:
+- ⭐ **Programma in versione leggibile** (con link ai materiali, formato PDF):
 
 [Programma LEGGIBILE in PDF](https://drive.google.com/open?id=1MX1nlZqKeCntUQsTUSzEWd1YC9U5eu-o){: .btn }
 
+Le versioni ufficiali invece si trovano
 - [Qui](https://myariel.unimi.it/mod/folder/view.php?id=55747), sulla Pagina MyAriel del corso (sezione "Programma, bibliografia e modalità d’esame") 
 - [Qui](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/letteratura-latina), sulla pagina ufficiale del corso, nel sito unimi
 
 #### Validità programmi anni passati
 Di seguito il messaggio pubblicato dal prof. Mori su Ariel, a questo proposito:
 
-> *Gli studenti che intendono sostenere l'esame di Letteratura latina con istituzioni di lingua (A-H) e che portano programmi di corsi precedenti a quello di questo anno accademico sono pregati di mettersi in contatto via email con il prof. Mori ([roberto.mori@unimi.it](mailto:roberto.mori@unimi.it)).*
+> *Gli studenti che intendono sostenere l'esame di Letteratura latina con istituzioni di lingua (A-H) e che portano programmi di corsi precedenti a quello di questo anno accademico sono pregati di **mettersi in contatto via email** con il prof. Mori ([roberto.mori@unimi.it](mailto:roberto.mori@unimi.it)).*
 
 > *Gli studenti potranno portare **integralmente i programmi dei corsi degli a.a. 2022/23 e 2023/24 di cui era docente responsabile in prof. Raschieri,** mentre a partire dall'appello di dicembre 2024 non sarà più possibile sostenere l'esame portando integralmente i corsi degli a.a. 2020/21 e 2021/22: di questi ultimi rimangono valide le parti C (Virgilio, Eneide, libro VI) e D (Cicerone, Pro Caelio), mentre per le parti A e B bisognerà far riferimento al programma di questo anno accademico (Ovidio, Heroides 16 e 17).*
 
@@ -140,9 +129,9 @@ Di seguito il messaggio pubblicato dal prof. Mori su Ariel, a questo proposito:
 
 ## ✍️ Esame scritto, di lingua {#esame-scritto}
 
-📍 In via Noto.
+📍 In via Noto, aula informatica (Cono 2, 4° piano).
 
-📅 Il primo sarà a fine gennaio (eccetto chi frequenta le esercitazioni).
+📅 Chi frequenta le esercitazioni può farlo anticipatamente; per le date, vedi [qui sotto](#date-esami).
 
 ### Struttura
 Brano di una decina di righe e poi domande di comprensione, lessico, e grammatica. No dizionario.
@@ -150,7 +139,12 @@ Per un esempio, vedi [qui sotto](#simulazioni).
 
 I risultati arrivano dopo una settimana circa.
 
-### Info ufficiali {#info-ufficiali-1}
+{: .warning-title}
+> 🫂 Ma... non temere
+>
+> L'esame è più semplice di quanto non venga detto. Difficile non passarlo una volta seguite le esercitazioni, e avendo un'infarinatura di latino (vedi [qui](#aiuto-lingua) per aiuto colla lingua). Se non ci credi, prova le [simulazioni](#simulazioni) (ti danno il voto)!
+
+### Info ufficiali sullo scritto {#info-ufficiali-1}
 {: .no_toc }
 
 Da MyAriel.
@@ -176,7 +170,12 @@ Da MyAriel.
 {: .note}
 > Per quanto riguarda la parte di lettura metrica, la prof Formenti ha detto che si può scegliere tra fare o la lettura metrica di una decina di versi scelti da loro, oppure, l'*analisi metrica* di 1 verso solo.
 
-### Info ufficiali {#info-ufficiali-2}
+{: .warning-title}
+> 🫂 Ma... anche qui non temere
+>
+> L'esame è praticamente soltanto di traduzione. Basta aver studiato bene i testi, sapere cosa dicono (e un'infarinatura grammaticale per riconoscere le strutture; per la parte di Mori vedi le note a [questo](https://drive.google.com/file/d/1Pg00ummpb4NiplNzElq3zMVhvHmw04QF/view) file). I prof sono gentili e disponibili, danno una mano a tradurre. La parte di comprensione non è così importante (es. per la parte C, basta sapere di cosa sta parlando il passo). Mori chiede un pezzo di 5/6 righe da entrambe le epistole. La domanda di letteratura occupa massimo 3 minuti, basta sapere a occhio.
+
+### Info ufficiali sull'orale {#info-ufficiali-2}
 {: .no_toc }
 
 Da MyAriel.
@@ -202,19 +201,18 @@ Da [questo](https://myariel.unimi.it/mod/forum/discuss.php?d=22993) messaggio di
 > Ricordo che chi frequenterà le esercitazioni di latino on line che partiranno il 30 settembre per almeno l'80% delle lezioni potrà sostenere la prova scritta intermedia di ottobre e la prova di dicembre.
 
 #### Esami orali
-
-- 18 dicembre 2024 dalle 13.30 in M202;
-- 22 gennaio 2025 dalle 13.30 in FdP 510;
-- 5 febbraio 2025 dalle 13.30 in M 205;
 - 25 giugno 2025 dalle 13.30 in FdP 510;
 - 9 luglio 2025 dalle 8.30 in M 102;
 - 10 settembre 2025 alle 13.30 in FdP 510.
 
-> Le date degli orali si riferiscono al primo giorno di esami: eventuali code proseguiranno di norma il giorno successivo e/o quello dopo ancora. 
+> Le date degli orali si riferiscono al primo giorno di esami: eventuali code proseguiranno nei giorni successivi. 
 
 ---
 
 # **Esercitazioni** {#esercitazioni}
+
+{: .warning}
+> Le esercitazioni sono terminate e riprendono a settembre 2025. Guarda la parte sul [tutorato](#tutorato).
 
 8 lezioni, online sul teams di ogni gruppo (sottoinsieme del teams del corso). Prima lezione il 30 settembre, ultima il 25 novembre.   
 Siamo divisi in 3 gruppi (sulla base del cognome) con 3 professori diversi.
@@ -250,13 +248,16 @@ sono scritti uguali a quelli ufficiali; **se passati non bisogna fare quello uff
 
 ### Tutorato {#tutorato}
 
-Dopo la prova intermedia di ottobre verrà attivato anche il **tutorato**, ovvero corsi / ripetizioni extra, con lezioni dedicate ad ogni materia, che si possono frequentare **se si fa fatica colla parte di lingua** e grammatica (vedi [sotto](#aiuto-lingua)).
+Dopo la prova intermedia di ottobre verrà attivato anche il **tutorato**, ovvero corsi / ripetizioni extra, con lezioni dedicate ad ogni materia, che si possono frequentare **se si fa fatica colla parte di lingua** e grammatica (per qualche consiglio, vedi [sotto](#aiuto-lingua)).
+
+[🗓️ Calendario del tutorato (PDF su MyAriel)](https://myariel.unimi.it/mod/resource/view.php?id=81172){: .btn }
+Io che scrivo non 
 
 ---
 
 # **Materiali aggiuntivi su Ariel** {#materiali-aggiuntivi-su-ariel}
 
-Ogni professore carica testi e materiali della sua parte (A-B, C, D) nella sezione corrispondente della pagina MyAriel.
+Ogni professore carica testi e materiali della sua parte nella sezione corrispondente della pagina MyAriel.
 
 Inoltre, ci sono [a questa pagina MyAriel](https://myariel.unimi.it/mod/folder/view.php?id=55749) dei materiali extra forniti “per lo studio autonomo”:
 
@@ -281,7 +282,7 @@ Gran parte di noi sa il latino a livelli medio bassi, o non lo ha mai fatto. Non
 
 1) il **Corso Principianti** di latino, che si deve frequentare [se si ha ricevuto l’OFA](https://www.unimi.it/it/studiare/competenze-linguistiche/corsi-di-lingua-latina-principianti/ofa-latino-lettere) (obbligo formativo aggiuntivo) di latino, è una manna: ti porta da zero al livello pre-esercitazioni.
 
-2) Altrimenti, è fondamentale studiare per conto proprio **un buon manuale di grammatica latina**, va benissimo quello delle superiori.[^2]
+2) Altrimenti, è fondamentale studiare per conto proprio **un buon manuale di grammatica latina**, va benissimo quello delle superiori.[^3]
 
 3) Meglio ancora: meno pesanti perché più interattive sono le **lezioni del prof. Luca Graverini** (Univ. di Siena):  
    \- SITO WEB: [latinopratico.it](http://latinopratico.it). Pagine di spiegazione, con esercizi interattivi. Ottimo.  
@@ -303,11 +304,35 @@ Tuttavia, non ti preoccupare: i professori tengono conto che stiamo seguendo le 
 - non si sa ancora come ci si iscriverà.
 - [qui](https://myariel.unimi.it/pluginfile.php/199890/mod_forum/attachment/31132/tutorato_latino_24_25.pdf) il calendario.
      
-3) Materiali online (... ancora da aggiungere ...)
+{: .warning-title}
+> 🫂 Ma... non temere
+>
+> Se hai raggiunto il livello base, e sai qualcosa del secondo, è difficile non passare sia scritto che orale. Parlo per esperienza personale ;)
+
+---
+## Sezioni non più attuali (mantengo per testimonianza)
+
+### **Gruppo Whatsapp sbobine** {#gruppo-whatsapp-sbobine}
+
+Chi vuole si può mettere d’accordo per **assegnarsi le sbobine e calendarizzare le trascrizioni**: usa il gruppo qui sotto ⬇️. Se riesci, contribuisci anche tu a trascrivere una o più sbobine: per farlo, segnati prima nel [*calendario*](https://docs.google.com/spreadsheets/d/11MPG3XhOC4DzEA4Ny5sxwLaFqsJx4Ee_4wESB97Yos4/edit).
+
+🔗 **Link del gruppo**: https://chat.whatsapp.com/B8BXz4CvJQLKgvSWkYReIR
+
+[📅 **file Excel col calendario delle sbobine**](https://docs.google.com/spreadsheets/d/11MPG3XhOC4DzEA4Ny5sxwLaFqsJx4Ee_4wESB97Yos4/), sul drive
+
+C'è anche un gruppo vecchio, non più utilizzato, lo riportiamo per informazione: ([**Link gruppo VECCHIO**](https://chat.whatsapp.com/IbszRruSnHYKiMfY3Hghtl))
+
+---
+{: .note-title } 
+> Addio ❤️
+> 
+> Siamo giunti alla fine di questo tutorial... se riesci, condividi questo link <3. Grazie per l’attenzione e in bocca al lupo 😉
+
 
 ---
 
-Grazie per l’attenzione e buon corso 😉
 
-[^1]: Per ora solo range A-H.
-[^2]: I docenti su MyAriel suggeriscono: Luca Graverini, Marco Fucecchi, *La lingua latina. Fondamenti di morfologia e sintassi*, Firenze, Le Monnier, 2009 (e successive edizioni). Correzioni degli esercizi online a [questo link](https://www.mondadorieducation.it/content/uploads/2019/01/soluzioni_esercizi.zip?x19326) 
+
+[^1]: Questo sito è pensato per il range A-H, ma molte cose sono utili anche per l'altro :)
+[^2]: Licenza GPL-v3.
+[^3]: I docenti su MyAriel suggeriscono: Luca Graverini, Marco Fucecchi, *La lingua latina. Fondamenti di morfologia e sintassi*, Firenze, Le Monnier, 2009 (e successive edizioni). Correzioni degli esercizi online a [questo link](https://www.mondadorieducation.it/content/uploads/2019/01/soluzioni_esercizi.zip?x19326) 

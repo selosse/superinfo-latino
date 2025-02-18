@@ -9,7 +9,7 @@ layout: home
 
 Benvenut*! Questo è **un archivio che contiene molte cose utili sul corso di latino** (con istituzioni di lingua) in unimi[^1] per l'anno 2024/25. Qui trovi **accesso rapido alle informazioni e ai link** che di solito sono dispersi, tra Ariel, MyAriel, sito dell'università... per non parlare di ciò che è stato detto soltanto una volta in aula.
 #### Da dove partire?
-👉 Troverai certamente utili le sezioni [appunti e registrazioni](#registrazioni), e quella di [aiuto per lo studio della lingua](#aiuto-lingua). Subito qui sotto trovi il sommario.
+👉 Troverai certamente utili le sezioni [appunti, riassunti e registrazioni](#registrazioni), e quella di [aiuto per lo studio della lingua](#aiuto-lingua). Subito qui sotto trovi il sommario.
 
 Buona esplorazione!
 
@@ -80,7 +80,7 @@ Sul drive si trovano:
 - riassunto dei 40 autori (da G.B. Conte, *Profilo storico della letteratura latina*) [qui](https://drive.google.com/file/d/1Ks66x51hXfvYNAsFjAY9USqcw_rCrdpk/view?usp=drive_link).
 - riassunto dell'A.A. 2023-24 di cui però i moduli C e D sono gli stessi di quest'anno [qui](https://drive.google.com/file/d/15tAJab6eCEZi5l8EBVcy7FCvC86EOsO-/view?usp=drive_link).
 
-[🤌 cartella Riassunti](https://drive.google.com/drive/folders/1-4mW_UoBRI7UQX-qMJf3f_yRvEGm9yAj){: .btn .btn-orange }
+[🤌 cartella Riassunti](https://drive.google.com/drive/folders/1-4mW_UoBRI7UQX-qMJf3f_yRvEGm9yAj){: .btn .btn-purple }
 
 --- 
 
@@ -253,7 +253,8 @@ sono scritti uguali a quelli ufficiali; **se passati non bisogna fare quello uff
 Dopo la prova intermedia di ottobre verrà attivato anche il **tutorato**, ovvero corsi / ripetizioni extra, con lezioni dedicate ad ogni materia, che si possono frequentare **se si fa fatica colla parte di lingua** e grammatica (per qualche consiglio, vedi [sotto](#aiuto-lingua)).
 
 [🗓️ Calendario del tutorato (PDF su MyAriel)](https://myariel.unimi.it/mod/resource/view.php?id=81172){: .btn }
-Io che scrivo non 
+
+Io che scrivo non ho seguito il tutorato, per informazioni rimando al gruppo Whatsapp.
 
 ---
 
